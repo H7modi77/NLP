@@ -1,5 +1,7 @@
 # SMS Spam Detection - TF-IDF vs Sentence-BERT
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/H7modi77/NLP/blob/main/Project_SMS_Spam_Detection/SMS_Spam_Detection_Group9.ipynb)
+
 ARTI 404 (NLP) - Section 7MA2 - Group 9
 Imam Abdulrahman Bin Faisal University, College of Computer Science and IT
 Instructor: Dr. Mohammed Mosuily
